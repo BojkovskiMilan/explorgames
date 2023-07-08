@@ -1,4 +1,3 @@
-/********** Template CSS **********/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Titillium+Web&display=swap');
 
 :root {
@@ -339,7 +338,7 @@ body{
 }
 
 
-/*** Categories & Courses ***/
+/*** Categories & Games ***/
 .category img,
 .course-item img {
     transition: .5s;
